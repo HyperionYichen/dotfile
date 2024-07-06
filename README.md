@@ -1,0 +1,2 @@
+# dotfile
+config the environment
